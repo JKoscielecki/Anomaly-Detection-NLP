@@ -1,2 +1,4 @@
 # Anomaly-Detection-NLP
-All codes contained in this repository are implementation part of my bachelor's thesis - Anomaly Detection Algorithms With Applications To Short Texts.
+
+Dirty code used in the experimental part of my BA thesis - Anomaly Detection Algorithms With Applications To Short Texts.
+I'll clean it up soon, split it into separate files and everything will be readable.
